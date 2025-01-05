@@ -1,0 +1,38 @@
+﻿  queue(sir's edition).cpp
+C:\Users\USER\source\repos\queue(sir's edition)\queue(sir's edition)\queue(sir's edition).cpp(55,4): error C2365: 'queue<T>::head': redefinition; previous definition was 'data member'
+      C:\Users\USER\source\repos\queue(sir's edition)\queue(sir's edition)\queue(sir's edition).cpp(11,6):
+      see declaration of 'queue<T>::head'
+      C:\Users\USER\source\repos\queue(sir's edition)\queue(sir's edition)\queue(sir's edition).cpp(55,4):
+      the template instantiation context (the oldest one first) is
+          C:\Users\USER\source\repos\queue(sir's edition)\queue(sir's edition)\queue(sir's edition).cpp(8,7):
+          while compiling class template 'queue'
+  
+C:\Users\USER\source\repos\queue(sir's edition)\queue(sir's edition)\queue(sir's edition).cpp(56,3): error C2059: syntax error: 'if'
+C:\Users\USER\source\repos\queue(sir's edition)\queue(sir's edition)\queue(sir's edition).cpp(56,15): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\USER\source\repos\queue(sir's edition)\queue(sir's edition)\queue(sir's edition).cpp(59,3): error C2059: syntax error: 'return'
+C:\Users\USER\source\repos\queue(sir's edition)\queue(sir's edition)\queue(sir's edition).cpp(59,42): error C2238: unexpected token(s) preceding ';'
+C:\Users\USER\source\repos\queue(sir's edition)\queue(sir's edition)\queue(sir's edition).cpp(62,2): error C2144: syntax error: 'void' should be preceded by ';'
+C:\Users\USER\source\repos\queue(sir's edition)\queue(sir's edition)\queue(sir's edition).cpp(55,4): error C2207: 'queue<T>::head': a member of a class template cannot acquire a function type
+      C:\Users\USER\source\repos\queue(sir's edition)\queue(sir's edition)\queue(sir's edition).cpp(55,4):
+      the template instantiation context (the oldest one first) is
+          C:\Users\USER\source\repos\queue(sir's edition)\queue(sir's edition)\queue(sir's edition).cpp(151,12):
+          see reference to class template instantiation 'queue<int>' being compiled
+  
+C:\Users\USER\source\repos\queue(sir's edition)\queue(sir's edition)\queue(sir's edition).cpp(55,4): error C2365: 'queue<int>::head': redefinition; previous definition was 'data member'
+      C:\Users\USER\source\repos\queue(sir's edition)\queue(sir's edition)\queue(sir's edition).cpp(11,6):
+      see declaration of 'queue<int>::head'
+  
+C:\Users\USER\source\repos\queue(sir's edition)\queue(sir's edition)\queue(sir's edition).cpp(152,4): error C2039: 'push': is not a member of 'queue<int>'
+      C:\Users\USER\source\repos\queue(sir's edition)\queue(sir's edition)\queue(sir's edition).cpp(8,7):
+      see declaration of 'queue<int>'
+  
+C:\Users\USER\source\repos\queue(sir's edition)\queue(sir's edition)\queue(sir's edition).cpp(157,5): error C2039: 'push': is not a member of 'queue<int>'
+      C:\Users\USER\source\repos\queue(sir's edition)\queue(sir's edition)\queue(sir's edition).cpp(8,7):
+      see declaration of 'queue<int>'
+  
+C:\Users\USER\source\repos\queue(sir's edition)\queue(sir's edition)\queue(sir's edition).cpp(160,3): error C2065: 'cout': undeclared identifier
+C:\Users\USER\source\repos\queue(sir's edition)\queue(sir's edition)\queue(sir's edition).cpp(160,38): error C2065: 'endl': undeclared identifier
+C:\Users\USER\source\repos\queue(sir's edition)\queue(sir's edition)\queue(sir's edition).cpp(166,3): error C2065: 'cout': undeclared identifier
+C:\Users\USER\source\repos\queue(sir's edition)\queue(sir's edition)\queue(sir's edition).cpp(166,36): error C2065: 'endl': undeclared identifier
+C:\Users\USER\source\repos\queue(sir's edition)\queue(sir's edition)\queue(sir's edition).cpp(171,3): error C2065: 'cout': undeclared identifier
+C:\Users\USER\source\repos\queue(sir's edition)\queue(sir's edition)\queue(sir's edition).cpp(171,46): error C2065: 'endl': undeclared identifier

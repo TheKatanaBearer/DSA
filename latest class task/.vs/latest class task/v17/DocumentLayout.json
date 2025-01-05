@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\latest class task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2E3E57-6E53-4D45-A4AE-A36EF5A61B3B}|latest class task\\latest class task.vcxproj|C:\\Users\\USER\\source\\repos\\latest class task\\latest class task\\latest class task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5B2E3E57-6E53-4D45-A4AE-A36EF5A61B3B}|latest class task\\latest class task.vcxproj|solutionrelative:latest class task\\latest class task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "latest class task.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\latest class task\\latest class task\\latest class task.cpp",
+              "RelativeDocumentMoniker": "latest class task\\latest class task.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\latest class task\\latest class task\\latest class task.cpp",
+              "RelativeToolTip": "latest class task\\latest class task.cpp",
+              "ViewState": "AQIAAPMAAAAAAAAAAAAAANgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T05:06:05.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

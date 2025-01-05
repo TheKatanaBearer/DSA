@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\trying peoples code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{138DC8FE-4490-4D7E-9A99-1B425E1F5760}|trying peoples code\\trying peoples code.vcxproj|C:\\Users\\USER\\source\\repos\\trying peoples code\\trying peoples code\\trying peoples code.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{138DC8FE-4490-4D7E-9A99-1B425E1F5760}|trying peoples code\\trying peoples code.vcxproj|solutionrelative:trying peoples code\\trying peoples code.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "trying peoples code.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\trying peoples code\\trying peoples code\\trying peoples code.cpp",
+              "RelativeDocumentMoniker": "trying peoples code\\trying peoples code.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\trying peoples code\\trying peoples code\\trying peoples code.cpp",
+              "RelativeToolTip": "trying peoples code\\trying peoples code.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T19:29:12.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

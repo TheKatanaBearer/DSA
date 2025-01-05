@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\27-9-24(file handling)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92434F25-6145-421F-99D8-11EB98089367}|27-9-24(file handling)\\27-9-24(file handling).vcxproj|C:\\Users\\USER\\source\\repos\\27-9-24(file handling)\\27-9-24(file handling)\\27-9-24(file handling).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92434F25-6145-421F-99D8-11EB98089367}|27-9-24(file handling)\\27-9-24(file handling).vcxproj|solutionrelative:27-9-24(file handling)\\27-9-24(file handling).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92434F25-6145-421F-99D8-11EB98089367}|27-9-24(file handling)\\27-9-24(file handling).vcxproj|C:\\Users\\USER\\source\\repos\\27-9-24(file handling)\\27-9-24(file handling)\\random.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{92434F25-6145-421F-99D8-11EB98089367}|27-9-24(file handling)\\27-9-24(file handling).vcxproj|solutionrelative:27-9-24(file handling)\\random.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "27-9-24(file handling).cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\27-9-24(file handling)\\27-9-24(file handling)\\27-9-24(file handling).cpp",
+              "RelativeDocumentMoniker": "27-9-24(file handling)\\27-9-24(file handling).cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\27-9-24(file handling)\\27-9-24(file handling)\\27-9-24(file handling).cpp*",
+              "RelativeToolTip": "27-9-24(file handling)\\27-9-24(file handling).cpp*",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T05:05:49.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "random.txt",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\27-9-24(file handling)\\27-9-24(file handling)\\random.txt",
+              "RelativeDocumentMoniker": "27-9-24(file handling)\\random.txt",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\27-9-24(file handling)\\27-9-24(file handling)\\random.txt",
+              "RelativeToolTip": "27-9-24(file handling)\\random.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-27T05:10:48.533Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

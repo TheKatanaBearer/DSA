@@ -1,0 +1,4 @@
+﻿  kashia riaz assignment no 4.cpp
+C:\Users\USER\source\repos\kashia riaz assignment no 4\kashia riaz assignment no 4\kashia riaz assignment no 4.cpp(587,8): error C2146: syntax error: missing ';' before identifier 'c'
+C:\Users\USER\source\repos\kashia riaz assignment no 4\kashia riaz assignment no 4\kashia riaz assignment no 4.cpp(587,2): warning C4551: function call missing argument list
+C:\Users\USER\source\repos\kashia riaz assignment no 4\kashia riaz assignment no 4\kashia riaz assignment no 4.cpp(587,8): error C3861: 'c': identifier not found

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\wonder assignment 3 FALL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99BEBAEF-8E4B-4F75-A3E0-13CD8911632D}|wonder assignment 3 FALL\\wonder assignment 3 FALL.vcxproj|C:\\Users\\USER\\source\\repos\\wonder assignment 3 FALL\\wonder assignment 3 FALL\\wonder assignment 3 FALL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99BEBAEF-8E4B-4F75-A3E0-13CD8911632D}|wonder assignment 3 FALL\\wonder assignment 3 FALL.vcxproj|solutionrelative:wonder assignment 3 FALL\\wonder assignment 3 FALL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "wonder assignment 3 FALL.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\wonder assignment 3 FALL\\wonder assignment 3 FALL\\wonder assignment 3 FALL.cpp",
+              "RelativeDocumentMoniker": "wonder assignment 3 FALL\\wonder assignment 3 FALL.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\wonder assignment 3 FALL\\wonder assignment 3 FALL\\wonder assignment 3 FALL.cpp",
+              "RelativeToolTip": "wonder assignment 3 FALL\\wonder assignment 3 FALL.cpp",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-21T14:54:50.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{140577C0-ED8E-4218-B3CC-2AC8B08A6D14}|inheritance\\inheritance.vcxproj|C:\\Users\\USER\\source\\repos\\inheritance\\inheritance\\inheritance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{140577C0-ED8E-4218-B3CC-2AC8B08A6D14}|inheritance\\inheritance.vcxproj|solutionrelative:inheritance\\inheritance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "inheritance.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\inheritance\\inheritance\\inheritance.cpp",
+              "RelativeDocumentMoniker": "inheritance\\inheritance.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\inheritance\\inheritance\\inheritance.cpp",
+              "RelativeToolTip": "inheritance\\inheritance.cpp",
+              "ViewState": "AQIAAH8BAAAAAAAAAAAmwJEBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-07T03:20:25.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

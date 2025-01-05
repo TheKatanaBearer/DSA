@@ -1,0 +1,3 @@
+﻿  OOP.cpp
+C:\Users\USER\source\repos\OOP\OOP\OOP.cpp(2460,1): warning C4715: 'Customer::login': not all control paths return a value
+  OOP.vcxproj -> C:\Users\USER\source\repos\OOP\x64\Debug\OOP.exe

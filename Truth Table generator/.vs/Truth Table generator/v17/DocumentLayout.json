@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Truth Table generator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B393A2BE-B4B1-41F2-8D46-9AE137D9D942}|Truth Table generator\\Truth Table generator.vcxproj|C:\\Users\\USER\\source\\repos\\Truth Table generator\\Truth Table generator\\Truth Table generator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B393A2BE-B4B1-41F2-8D46-9AE137D9D942}|Truth Table generator\\Truth Table generator.vcxproj|solutionrelative:Truth Table generator\\Truth Table generator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Truth Table generator.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Truth Table generator\\Truth Table generator\\Truth Table generator.cpp",
+              "RelativeDocumentMoniker": "Truth Table generator\\Truth Table generator.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Truth Table generator\\Truth Table generator\\Truth Table generator.cpp*",
+              "RelativeToolTip": "Truth Table generator\\Truth Table generator.cpp*",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwKgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-19T17:22:25.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

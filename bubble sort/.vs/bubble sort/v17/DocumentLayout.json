@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\bubble sort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD7D0D2-BD3B-4197-BC37-D5423EE35D85}|bubble sort\\bubble sort.vcxproj|C:\\Users\\USER\\source\\repos\\bubble sort\\bubble sort\\bubble sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAD7D0D2-BD3B-4197-BC37-D5423EE35D85}|bubble sort\\bubble sort.vcxproj|solutionrelative:bubble sort\\bubble sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bubble sort.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\bubble sort\\bubble sort\\bubble sort.cpp",
+              "RelativeDocumentMoniker": "bubble sort\\bubble sort.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\bubble sort\\bubble sort\\bubble sort.cpp",
+              "RelativeToolTip": "bubble sort\\bubble sort.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T19:27:34.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

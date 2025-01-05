@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\function to check occurences of two diff characters\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8C5608-1626-428F-83A5-4825850180ED}|function to check occurences of two diff characters\\function to check occurences of two diff characters.vcxproj|C:\\Users\\USER\\source\\repos\\function to check occurences of two diff characters\\function to check occurences of two diff characters\\function to check occurences of two diff characters.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8C5608-1626-428F-83A5-4825850180ED}|function to check occurences of two diff characters\\function to check occurences of two diff characters.vcxproj|solutionrelative:function to check occurences of two diff characters\\function to check occurences of two diff characters.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "function to check occurences of two diff characters.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\function to check occurences of two diff characters\\function to check occurences of two diff characters\\function to check occurences of two diff characters.cpp",
+              "RelativeDocumentMoniker": "function to check occurences of two diff characters\\function to check occurences of two diff characters.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\function to check occurences of two diff characters\\function to check occurences of two diff characters\\function to check occurences of two diff characters.cpp",
+              "RelativeToolTip": "function to check occurences of two diff characters\\function to check occurences of two diff characters.cpp",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-17T03:16:35.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

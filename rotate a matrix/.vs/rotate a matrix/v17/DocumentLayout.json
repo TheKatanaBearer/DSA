@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\rotate a matrix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87F45732-425D-40CB-95EE-FDE77CA6DCD7}|rotate a matrix\\rotate a matrix.vcxproj|C:\\Users\\USER\\source\\repos\\rotate a matrix\\rotate a matrix\\rotate a matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87F45732-425D-40CB-95EE-FDE77CA6DCD7}|rotate a matrix\\rotate a matrix.vcxproj|solutionrelative:rotate a matrix\\rotate a matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rotate a matrix.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\rotate a matrix\\rotate a matrix\\rotate a matrix.cpp",
+              "RelativeDocumentMoniker": "rotate a matrix\\rotate a matrix.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\rotate a matrix\\rotate a matrix\\rotate a matrix.cpp",
+              "RelativeToolTip": "rotate a matrix\\rotate a matrix.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-18T01:41:28.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

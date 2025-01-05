@@ -1,0 +1,3 @@
+Hamza Khan, CS , 2.5
+billa, CS, 3.5
+stud, CS, 3.5

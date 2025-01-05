@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\kashia riaz assignment 1 practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{391485BA-3884-4E91-9F5F-D140EA895113}|kashia riaz assignment 1 practice\\kashia riaz assignment 1 practice.vcxproj|C:\\Users\\USER\\source\\repos\\kashia riaz assignment 1 practice\\kashia riaz assignment 1 practice\\kashia riaz assignment 1 practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{391485BA-3884-4E91-9F5F-D140EA895113}|kashia riaz assignment 1 practice\\kashia riaz assignment 1 practice.vcxproj|solutionrelative:kashia riaz assignment 1 practice\\kashia riaz assignment 1 practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kashia riaz assignment 1 practice.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\kashia riaz assignment 1 practice\\kashia riaz assignment 1 practice\\kashia riaz assignment 1 practice.cpp",
+              "RelativeDocumentMoniker": "kashia riaz assignment 1 practice\\kashia riaz assignment 1 practice.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\kashia riaz assignment 1 practice\\kashia riaz assignment 1 practice\\kashia riaz assignment 1 practice.cpp",
+              "RelativeToolTip": "kashia riaz assignment 1 practice\\kashia riaz assignment 1 practice.cpp",
+              "ViewState": "AQIAAA0BAAAAAAAAAAAkwBcBAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-28T08:05:32.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\capitalize the first letter of a word in a string\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4F7B24-CA52-4B85-B0D1-639A789890A3}|capitalize the first letter of a word in a string\\capitalize the first letter of a word in a string.vcxproj|C:\\Users\\USER\\source\\repos\\capitalize the first letter of a word in a string\\capitalize the first letter of a word in a string\\capitalize the first letter of a word in a string.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F4F7B24-CA52-4B85-B0D1-639A789890A3}|capitalize the first letter of a word in a string\\capitalize the first letter of a word in a string.vcxproj|solutionrelative:capitalize the first letter of a word in a string\\capitalize the first letter of a word in a string.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "capitalize the first letter of a word in a string.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\capitalize the first letter of a word in a string\\capitalize the first letter of a word in a string\\capitalize the first letter of a word in a string.cpp",
+              "RelativeDocumentMoniker": "capitalize the first letter of a word in a string\\capitalize the first letter of a word in a string.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\capitalize the first letter of a word in a string\\capitalize the first letter of a word in a string\\capitalize the first letter of a word in a string.cpp",
+              "RelativeToolTip": "capitalize the first letter of a word in a string\\capitalize the first letter of a word in a string.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-16T15:24:11.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

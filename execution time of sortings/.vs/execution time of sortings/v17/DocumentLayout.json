@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\execution time of sortings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD950EE2-3165-43AE-BAA4-C200E72D8AC0}|execution time of sortings\\execution time of sortings.vcxproj|C:\\Users\\USER\\source\\repos\\execution time of sortings\\execution time of sortings\\execution time of sortings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD950EE2-3165-43AE-BAA4-C200E72D8AC0}|execution time of sortings\\execution time of sortings.vcxproj|solutionrelative:execution time of sortings\\execution time of sortings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "execution time of sortings.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\execution time of sortings\\execution time of sortings\\execution time of sortings.cpp",
+              "RelativeDocumentMoniker": "execution time of sortings\\execution time of sortings.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\execution time of sortings\\execution time of sortings\\execution time of sortings.cpp",
+              "RelativeToolTip": "execution time of sortings\\execution time of sortings.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-09T15:36:03.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

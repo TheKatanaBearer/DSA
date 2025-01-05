@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\stack using linked list\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63771445-EF09-445C-9250-5C86EEB5D14B}|stack using linked list\\stack using linked list.vcxproj|C:\\Users\\USER\\source\\repos\\stack using linked list\\stack using linked list\\stack using linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63771445-EF09-445C-9250-5C86EEB5D14B}|stack using linked list\\stack using linked list.vcxproj|solutionrelative:stack using linked list\\stack using linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "stack using linked list.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\stack using linked list\\stack using linked list\\stack using linked list.cpp",
+              "RelativeDocumentMoniker": "stack using linked list\\stack using linked list.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\stack using linked list\\stack using linked list\\stack using linked list.cpp",
+              "RelativeToolTip": "stack using linked list\\stack using linked list.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T03:08:43.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

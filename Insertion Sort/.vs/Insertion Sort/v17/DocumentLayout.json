@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Insertion Sort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29FD0629-0E3D-4341-A7F5-428D8E327838}|Insertion Sort\\Insertion Sort.vcxproj|C:\\Users\\USER\\source\\repos\\Insertion Sort\\Insertion Sort\\Insertion Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29FD0629-0E3D-4341-A7F5-428D8E327838}|Insertion Sort\\Insertion Sort.vcxproj|solutionrelative:Insertion Sort\\Insertion Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Insertion Sort.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Insertion Sort\\Insertion Sort\\Insertion Sort.cpp",
+              "RelativeDocumentMoniker": "Insertion Sort\\Insertion Sort.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Insertion Sort\\Insertion Sort\\Insertion Sort.cpp",
+              "RelativeToolTip": "Insertion Sort\\Insertion Sort.cpp",
+              "ViewState": "AgIAAH8BAAAAAAAAAAAwwIsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T19:48:14.451Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

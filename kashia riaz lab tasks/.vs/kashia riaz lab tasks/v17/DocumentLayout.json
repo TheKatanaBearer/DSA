@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\kashia riaz lab tasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70F1A028-5BCB-4A9B-AC9D-591CF904978E}|kashia riaz lab tasks\\kashia riaz lab tasks.vcxproj|C:\\Users\\USER\\source\\repos\\kashia riaz lab tasks\\kashia riaz lab tasks\\kashia riaz lab tasks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70F1A028-5BCB-4A9B-AC9D-591CF904978E}|kashia riaz lab tasks\\kashia riaz lab tasks.vcxproj|solutionrelative:kashia riaz lab tasks\\kashia riaz lab tasks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kashia riaz lab tasks.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\kashia riaz lab tasks\\kashia riaz lab tasks\\kashia riaz lab tasks.cpp",
+              "RelativeDocumentMoniker": "kashia riaz lab tasks\\kashia riaz lab tasks.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\kashia riaz lab tasks\\kashia riaz lab tasks\\kashia riaz lab tasks.cpp",
+              "RelativeToolTip": "kashia riaz lab tasks\\kashia riaz lab tasks.cpp",
+              "ViewState": "AQIAAGMBAAAAAAAAAAAQwGgBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-06T07:52:07.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

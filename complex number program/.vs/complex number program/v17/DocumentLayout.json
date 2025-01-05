@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\complex number program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B953811-0792-4786-AE81-E76919351737}|complex number program\\complex number program.vcxproj|C:\\Users\\USER\\source\\repos\\complex number program\\complex number program\\complex number program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B953811-0792-4786-AE81-E76919351737}|complex number program\\complex number program.vcxproj|solutionrelative:complex number program\\complex number program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "complex number program.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\complex number program\\complex number program\\complex number program.cpp",
+              "RelativeDocumentMoniker": "complex number program\\complex number program.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\complex number program\\complex number program\\complex number program.cpp",
+              "RelativeToolTip": "complex number program\\complex number program.cpp",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAswLsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-08T18:23:21.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

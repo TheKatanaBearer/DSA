@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\assignment 5 kashia riaz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27A4C15C-786B-4234-976A-1C716C654EC8}|assignment 5 kashia riaz\\assignment 5 kashia riaz.vcxproj|C:\\Users\\USER\\source\\repos\\assignment 5 kashia riaz\\assignment 5 kashia riaz\\assignment 5 kashia riaz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27A4C15C-786B-4234-976A-1C716C654EC8}|assignment 5 kashia riaz\\assignment 5 kashia riaz.vcxproj|solutionrelative:assignment 5 kashia riaz\\assignment 5 kashia riaz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "assignment 5 kashia riaz.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\assignment 5 kashia riaz\\assignment 5 kashia riaz\\assignment 5 kashia riaz.cpp",
+              "RelativeDocumentMoniker": "assignment 5 kashia riaz\\assignment 5 kashia riaz.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\assignment 5 kashia riaz\\assignment 5 kashia riaz\\assignment 5 kashia riaz.cpp",
+              "RelativeToolTip": "assignment 5 kashia riaz\\assignment 5 kashia riaz.cpp",
+              "ViewState": "AQIAAMQBAAAAAAAAAAAAAEgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-07T15:08:06.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

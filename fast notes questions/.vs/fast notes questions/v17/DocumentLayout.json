@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\fast notes questions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A93C1E9-13E8-4B17-91CF-A9BF9B700E04}|fast notes questions\\fast notes questions.vcxproj|C:\\Users\\USER\\source\\repos\\fast notes questions\\fast notes questions\\fast notes questions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A93C1E9-13E8-4B17-91CF-A9BF9B700E04}|fast notes questions\\fast notes questions.vcxproj|solutionrelative:fast notes questions\\fast notes questions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fast notes questions.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\fast notes questions\\fast notes questions\\fast notes questions.cpp",
+              "RelativeDocumentMoniker": "fast notes questions\\fast notes questions.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\fast notes questions\\fast notes questions\\fast notes questions.cpp",
+              "RelativeToolTip": "fast notes questions\\fast notes questions.cpp",
+              "ViewState": "AQIAAAwBAAAAAAAAAAAAwDcBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T02:51:25.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

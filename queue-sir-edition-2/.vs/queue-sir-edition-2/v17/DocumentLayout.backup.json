@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\queue-sir-edition-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D751F54-0538-41E3-B527-24B511E3179C}|queue-sir-edition-2\\queue-sir-edition-2.vcxproj|C:\\Users\\USER\\source\\repos\\queue-sir-edition-2\\queue-sir-edition-2\\queue-sir-edition-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D751F54-0538-41E3-B527-24B511E3179C}|queue-sir-edition-2\\queue-sir-edition-2.vcxproj|solutionrelative:queue-sir-edition-2\\queue-sir-edition-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "queue-sir-edition-2.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\queue-sir-edition-2\\queue-sir-edition-2\\queue-sir-edition-2.cpp",
+              "RelativeDocumentMoniker": "queue-sir-edition-2\\queue-sir-edition-2.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\queue-sir-edition-2\\queue-sir-edition-2\\queue-sir-edition-2.cpp",
+              "RelativeToolTip": "queue-sir-edition-2\\queue-sir-edition-2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T07:23:02.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

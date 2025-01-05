@@ -1,0 +1,3 @@
+﻿  execution time of sortings.cpp
+C:\Users\USER\source\repos\execution time of sortings\execution time of sortings\execution time of sortings.cpp(155,8): warning C4101: 'copy_rand5': unreferenced local variable
+  execution time of sortings.vcxproj -> C:\Users\USER\source\repos\execution time of sortings\x64\Debug\execution time of sortings.exe

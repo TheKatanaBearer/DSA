@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\DS lab 8th NOV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9FD3BD-AB9D-4979-B404-D096E0E233AF}|DS lab 8th NOV\\DS lab 8th NOV.vcxproj|C:\\Users\\USER\\source\\repos\\DS lab 8th NOV\\DS lab 8th NOV\\DS lab 8th NOV.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE9FD3BD-AB9D-4979-B404-D096E0E233AF}|DS lab 8th NOV\\DS lab 8th NOV.vcxproj|solutionrelative:DS lab 8th NOV\\DS lab 8th NOV.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DS lab 8th NOV.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\DS lab 8th NOV\\DS lab 8th NOV\\DS lab 8th NOV.cpp",
+              "RelativeDocumentMoniker": "DS lab 8th NOV\\DS lab 8th NOV.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\DS lab 8th NOV\\DS lab 8th NOV\\DS lab 8th NOV.cpp",
+              "RelativeToolTip": "DS lab 8th NOV\\DS lab 8th NOV.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T04:32:13.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
