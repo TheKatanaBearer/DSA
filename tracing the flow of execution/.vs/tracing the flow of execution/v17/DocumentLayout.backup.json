@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Purple ribbon\\tracing the flow of execution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA89710-ADEC-42A9-A8C5-C478D8263986}|tracing the flow of execution\\tracing the flow of execution.vcxproj|F:\\Purple ribbon\\tracing the flow of execution\\tracing the flow of execution\\tracing the flow of execution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BA89710-ADEC-42A9-A8C5-C478D8263986}|tracing the flow of execution\\tracing the flow of execution.vcxproj|solutionrelative:tracing the flow of execution\\tracing the flow of execution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 365,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tracing the flow of execution.cpp",
+              "DocumentMoniker": "F:\\Purple ribbon\\tracing the flow of execution\\tracing the flow of execution\\tracing the flow of execution.cpp",
+              "RelativeDocumentMoniker": "tracing the flow of execution\\tracing the flow of execution.cpp",
+              "ToolTip": "F:\\Purple ribbon\\tracing the flow of execution\\tracing the flow of execution\\tracing the flow of execution.cpp",
+              "RelativeToolTip": "tracing the flow of execution\\tracing the flow of execution.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-04T11:30:48.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
