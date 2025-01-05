@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Purple ribbon\\ds lab 3-1-25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20EB225D-E905-4BEF-BCDB-9DC6E77110B9}|ds lab 3-1-25\\ds lab 3-1-25.vcxproj|F:\\Purple ribbon\\ds lab 3-1-25\\ds lab 3-1-25\\ds lab 3-1-25.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20EB225D-E905-4BEF-BCDB-9DC6E77110B9}|ds lab 3-1-25\\ds lab 3-1-25.vcxproj|solutionrelative:ds lab 3-1-25\\ds lab 3-1-25.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ds lab 3-1-25.cpp",
+              "DocumentMoniker": "F:\\Purple ribbon\\ds lab 3-1-25\\ds lab 3-1-25\\ds lab 3-1-25.cpp",
+              "RelativeDocumentMoniker": "ds lab 3-1-25\\ds lab 3-1-25.cpp",
+              "ToolTip": "F:\\Purple ribbon\\ds lab 3-1-25\\ds lab 3-1-25\\ds lab 3-1-25.cpp",
+              "RelativeToolTip": "ds lab 3-1-25\\ds lab 3-1-25.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T04:25:18.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
