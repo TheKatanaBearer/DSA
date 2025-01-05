@@ -14,12 +14,12 @@ int main() {
 	std::string word;
 
 
-	while (file >> word) {
-		it = word_count.find(word);												//this returns an iterator an we come to know that the word is present in the map
-		if (it != word_count.end()) {											//this checks if we have reached the end of the map
-			it->second++;													    //if we havent reached the end of map it means that the word is present in the map
-		}																		//so then we increment its second value by 1....(keep in mind the iterator is pointing to the word)
-		else {																	//if we reached the end of the tree..it means the word is not present in the map so we insert it in the map with a value of 1
+	while (file >> word) {			// keep in mind >> reads words and getline reads lines
+		it = word_count.find(word);																//this returns an iterator an we come to know that the word is present in the map
+		if (it != word_count.end()) {															//this checks if we have reached the end of the map
+			it->second++;																	    //if we havent reached the end of map it means that the word is present in the map
+		}																						//so then we increment its second value by 1....(keep in mind the iterator is pointing to the word)
+		else {																					//if we reached the end of the tree..it means the word is not present in the map so we insert it in the map with a value of 1
 			word_count.insert(std::pair<std::string, int>(word, 1));
 		}
 	}
