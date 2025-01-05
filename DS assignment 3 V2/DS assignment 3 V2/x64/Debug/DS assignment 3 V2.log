@@ -1,0 +1,3 @@
+﻿  DS assignment 3 V2.cpp
+DS assignment 3 V2.obj : error LNK2019: unresolved external symbol "void __cdecl display_weapons(class std::list<class weapon,class std::allocator<class weapon> > &)" (?display_weapons@@YAXAEAV?$list@Vweapon@@V?$allocator@Vweapon@@@std@@@std@@@Z) referenced in function "void __cdecl display_menu(class std::list<class weapon,class std::allocator<class weapon> > &)" (?display_menu@@YAXAEAV?$list@Vweapon@@V?$allocator@Vweapon@@@std@@@std@@@Z)
+F:\MyProjects\DS assignment 3 V2\x64\Debug\DS assignment 3 V2.exe : fatal error LNK1120: 1 unresolved externals

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\MyProjects\\DS assignment 3 V2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD87D8D-CB48-4257-A91B-6FF17CBF4199}|DS assignment 3 V2\\DS assignment 3 V2.vcxproj|F:\\MyProjects\\DS assignment 3 V2\\DS assignment 3 V2\\DS assignment 3 V2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BCD87D8D-CB48-4257-A91B-6FF17CBF4199}|DS assignment 3 V2\\DS assignment 3 V2.vcxproj|solutionrelative:DS assignment 3 V2\\DS assignment 3 V2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DS assignment 3 V2.cpp",
+              "DocumentMoniker": "F:\\MyProjects\\DS assignment 3 V2\\DS assignment 3 V2\\DS assignment 3 V2.cpp",
+              "RelativeDocumentMoniker": "DS assignment 3 V2\\DS assignment 3 V2.cpp",
+              "ToolTip": "F:\\MyProjects\\DS assignment 3 V2\\DS assignment 3 V2\\DS assignment 3 V2.cpp",
+              "RelativeToolTip": "DS assignment 3 V2\\DS assignment 3 V2.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABYCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-15T08:36:16.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

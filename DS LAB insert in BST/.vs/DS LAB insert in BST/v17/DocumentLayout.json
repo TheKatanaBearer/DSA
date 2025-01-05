@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Purple ribbon\\DS LAB insert in BST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F6492FB-7A63-4A10-85B3-26937A87FBFB}|DS LAB insert in BST\\DS LAB insert in BST.vcxproj|F:\\Purple ribbon\\DS LAB insert in BST\\DS LAB insert in BST\\DS LAB insert in BST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F6492FB-7A63-4A10-85B3-26937A87FBFB}|DS LAB insert in BST\\DS LAB insert in BST.vcxproj|solutionrelative:DS LAB insert in BST\\DS LAB insert in BST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 365,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DS LAB insert in BST.cpp",
+              "DocumentMoniker": "F:\\Purple ribbon\\DS LAB insert in BST\\DS LAB insert in BST\\DS LAB insert in BST.cpp",
+              "RelativeDocumentMoniker": "DS LAB insert in BST\\DS LAB insert in BST.cpp",
+              "ToolTip": "F:\\Purple ribbon\\DS LAB insert in BST\\DS LAB insert in BST\\DS LAB insert in BST.cpp",
+              "RelativeToolTip": "DS LAB insert in BST\\DS LAB insert in BST.cpp",
+              "ViewState": "AgIAAEsBAAAAAAAAAAAAwGgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T04:57:09.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\MyProjects\\infix to posfix calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24138313-0E10-4939-84DA-DACDB8A7B592}|infix to posfix calculator\\infix to posfix calculator.vcxproj|F:\\MyProjects\\infix to posfix calculator\\infix to posfix calculator\\infix to posfix calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{24138313-0E10-4939-84DA-DACDB8A7B592}|infix to posfix calculator\\infix to posfix calculator.vcxproj|solutionrelative:infix to posfix calculator\\infix to posfix calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "infix to posfix calculator.cpp",
+              "DocumentMoniker": "F:\\MyProjects\\infix to posfix calculator\\infix to posfix calculator\\infix to posfix calculator.cpp",
+              "RelativeDocumentMoniker": "infix to posfix calculator\\infix to posfix calculator.cpp",
+              "ToolTip": "F:\\MyProjects\\infix to posfix calculator\\infix to posfix calculator\\infix to posfix calculator.cpp",
+              "RelativeToolTip": "infix to posfix calculator\\infix to posfix calculator.cpp",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T14:48:19.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

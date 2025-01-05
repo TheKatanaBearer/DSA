@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\MyProjects\\Forward_list implementaiton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A63E0AE-B3DB-4909-91F4-7EFB261CF7BF}|Forward_list implementaiton\\Forward_list implementaiton.vcxproj|F:\\MyProjects\\Forward_list implementaiton\\Forward_list implementaiton\\Forward_list implementaiton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A63E0AE-B3DB-4909-91F4-7EFB261CF7BF}|Forward_list implementaiton\\Forward_list implementaiton.vcxproj|solutionrelative:Forward_list implementaiton\\Forward_list implementaiton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Forward_list implementaiton.cpp",
+              "DocumentMoniker": "F:\\MyProjects\\Forward_list implementaiton\\Forward_list implementaiton\\Forward_list implementaiton.cpp",
+              "RelativeDocumentMoniker": "Forward_list implementaiton\\Forward_list implementaiton.cpp",
+              "ToolTip": "F:\\MyProjects\\Forward_list implementaiton\\Forward_list implementaiton\\Forward_list implementaiton.cpp",
+              "RelativeToolTip": "Forward_list implementaiton\\Forward_list implementaiton.cpp",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAJwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T15:22:42.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
