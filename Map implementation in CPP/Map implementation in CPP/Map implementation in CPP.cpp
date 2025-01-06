@@ -93,12 +93,11 @@ public:
         n++;
     }
 
-    bool find(const K& key, V& value) const {
+    iterator find(const K& key) const {
         tNode<K, V>* current = H->parent;
         while (current != H) {
             if (key == current->data.first) {
-                value = current->data.second;
-                return true;
+                return iterator(current);
             }
             else if (key < current->data.first) {
                 current = current->left;
@@ -107,8 +106,9 @@ public:
                 current = current->right;
             }
         }
-        return false;
+        return iterator(H); // Return an iterator to H, which acts as end()
     }
+
 
     void erase(const K& key) {
         tNode<K, V>* current = H->parent;
@@ -267,7 +267,7 @@ int main() {
 
     // Find an element
     std::string value;
-    if (m.find(7, value)) {
+    if (m.find(7)) {
         std::cout << "Found key 7 with value: " << value << std::endl;
     }
     else {
