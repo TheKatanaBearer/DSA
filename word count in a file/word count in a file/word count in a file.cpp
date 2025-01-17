@@ -1,40 +1,77 @@
-// word count in a file.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
 
-#include <iostream>
-#include<cctype>
-#include<string>
+
+#include<iostream>
 #include<fstream>
 #include<sstream>
+#include<map>
+#include<set>
+#include<cctype>
+
+
 using namespace std;
-int main()
-{
-	string fileName;
-	cout << "enter the file name";
-	cin >> fileName;
 
-	ifstream hamza(fileName);
+void remPunct(string& s) {
 
-	if (!hamza) {
-
-		cerr << "there was an error";
-		return 1;
+	string after_punct;
+	
+	for (int i = 0; i < s.size(); i++) {
+		if (!ispunct(s[i])) {
+			after_punct += s[i];
+		}	
 	}
 
+	s = after_punct;
+
+}
+
+
+void toLower( string& s) {
+	string lower;
+	for (int i = 0; i < s.size(); i++) {
+		lower += tolower(s[i]);
+	}
+	
+	s = lower;
+
+}
+
+
+int main(int argc, char* argv[]) {
+	string file_name;
+
+	if (argc > 1) {
+		file_name = argv[1];
+
+	}
+
+	else {
+		cout << "Enter the file name: " << endl;
+		cin >> file_name;
+
+	}
+
+	ifstream _file("textFile.txt");
+	if (!_file) {
+		cerr << "File not found" << endl;
+		return -1;
+	}
+
+	set<string>stop_words = { "a","an","the","in","on","at","to","for","by","of","off","up","and","as","but","or" };
+
+	map<string, int>Word_freq;
 	string line;
-	int wordcount = 0;
-	while (getline(hamza, line)) {
-		stringstream ss(line);
+	while (getline(_file, line)) {
+		istringstream iss(line);
 		string word;
-		while (ss >> word) {
-			wordcount++;
+		while (iss >> word) {
+			remPunct(word);
+			toLower(word);
+
+			if (!word.empty()) {
+				if (stop_words.count(word) == 0) {
+					Word_freq[word] += 1;
+				}
+			}
 		}
 	}
-
-	cout << "the word count is" << wordcount;
-
-	hamza.close();
-	return 0;
-
-
 }

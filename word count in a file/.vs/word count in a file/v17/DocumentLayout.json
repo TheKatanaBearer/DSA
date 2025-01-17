@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\word count in a file\\",
+  "WorkspaceRootPath": "F:\\code from my old SSD\\word count in a file\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1E37252-EF62-4966-9EDB-14135DFB6A9D}|word count in a file\\word count in a file.vcxproj|C:\\Users\\USER\\source\\repos\\word count in a file\\word count in a file\\word count in a file.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{E1E37252-EF62-4966-9EDB-14135DFB6A9D}|word count in a file\\word count in a file.vcxproj|F:\\code from my old SSD\\word count in a file\\word count in a file\\word count in a file.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E1E37252-EF62-4966-9EDB-14135DFB6A9D}|word count in a file\\word count in a file.vcxproj|solutionrelative:word count in a file\\word count in a file.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "word count in a file.cpp",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\word count in a file\\word count in a file\\word count in a file.cpp",
+              "DocumentMoniker": "F:\\code from my old SSD\\word count in a file\\word count in a file\\word count in a file.cpp",
               "RelativeDocumentMoniker": "word count in a file\\word count in a file.cpp",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\word count in a file\\word count in a file\\word count in a file.cpp",
+              "ToolTip": "F:\\code from my old SSD\\word count in a file\\word count in a file\\word count in a file.cpp",
               "RelativeToolTip": "word count in a file\\word count in a file.cpp",
-              "ViewState": "AQIAABMAAAAAAAAAAAAIwB8AAAACAAAA",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-25T02:36:33.718Z",
               "EditorCaption": ""
